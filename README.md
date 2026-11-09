@@ -3,10 +3,6 @@
 Reverse-engineered **Beli** API contract and an **MCP server** — a TypeScript
 monorepo built zod-first.
 
-> Unofficial. Built from static + dynamic analysis of the Beli Android app
-> (v9.3.1). Snapshot of a private API with no compatibility guarantee. For
-> personal interoperability with your own account; rate-limit politely.
-
 ## Packages
 
 | Package | Published as | What it is |
